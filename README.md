@@ -7,7 +7,7 @@
 
 <h2>About the Weather Research and Forecasting (WRF) Model</h2>
 <p align="justify">
-<img width="170" src="http://wrf-model.org/images/headerleft.jpg" border="0">
+<img src="http://wrf-model.org/images/headerleft.jpg" border="0">
 is a next-generation mesoscale numerical weather prediction system designed to serve both atmospheric research and operational forecasting needs. It features two dynamical cores, a data assimilation system, and a software architecture facilitating parallel computation and system extensibility. The model serves a wide range of meteorological applications across scales from tens of meters to thousands of kilometers. The effort to develop WRF began in the latter part of the 1990's and was a collaborative partnership principally among the National Center for Atmospheric Research (NCAR), the National Oceanic and Atmospheric Administration (represented by the National Centers for Environmental Prediction (NCEP) and the (then) Forecast Systems Laboratory (FSL)), the Air Force Weather Agency (AFWA), the Naval Research Laboratory, the University of Oklahoma, and the Federal Aviation Administration (FAA). <br/><br/>
 
 WRF allows researchers to generate atmospheric simulations based on real data (observations, analyses) or idealized conditions. WRF offers operational forecasting a flexible and computationally-efficient platform, while providing advances in physics, numerics, and data assimilation contributed by developers in the broader research community. WRF is currently in operational use at NCEP, AFWA, and other centers. <br/><br/>
@@ -24,6 +24,6 @@ WRF has a large worldwide community of registered users (over 25,000 in over 130
  
 <h2>Sponsor</h2>
 This JSR-286 portlet has been fully supported by the 
-<a href="http://science-gateway.chain-project.eu/"><img width="100" src="https://www.chain-project.eu/image/image_gallery?uuid=4b273102-2ed0-49ca-929f-c23379318171&groupId=3456180&t=1424446552904" border="0" title="The CHAIN-REDS Science Gateway"></a>
+<a href="http://www.chain-project.eu/"><img width="100" src="https://www.chain-project.eu/image/image_gallery?uuid=4b273102-2ed0-49ca-929f-c23379318171&groupId=3456180&t=1424446552904" border="0" title="The CHAIN-REDS Science Gateway"></a>
 
 
