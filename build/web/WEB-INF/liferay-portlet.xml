@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<!DOCTYPE liferay-portlet-app PUBLIC "-//Liferay//DTD Portlet Application 6.0.0//EN" "http://www.liferay.com/dtd/liferay-portlet-app_6_0_0.dtd">
+
+<liferay-portlet-app>
+    <portlet>
+        <portlet-name>wrf</portlet-name>
+        <icon>/icon.png</icon>
+        <instanceable>false</instanceable>
+        <header-portlet-css>/css/style.css</header-portlet-css>
+        <header-portlet-css>/css/overcast/jquery-ui-1.8.13.custom.css</header-portlet-css>
+        <header-portlet-css>/css/jquery.ui.stars.css</header-portlet-css>
+        <header-portlet-css>/css/jquery.ui.stars.min.css</header-portlet-css>                
+        <header-portlet-javascript>/js/jquery-1.7.1.min.js</header-portlet-javascript>
+        <header-portlet-javascript>/js/jquery-ui-1.8.13.custom.min.js</header-portlet-javascript>
+        <header-portlet-javascript>/js/jquery.validate.js</header-portlet-javascript>
+        <header-portlet-javascript>/js/jquery.ui.stars.js</header-portlet-javascript>
+        <header-portlet-javascript>/js/jquery.ui.stars.min.js</header-portlet-javascript>
+        <header-portlet-javascript>/js/jquery.masonry.min.js</header-portlet-javascript>
+        <header-portlet-javascript>/js/jQuery.rollChildren.js</header-portlet-javascript>
+        <header-portlet-javascript>/js/paging.js</header-portlet-javascript>                
+        <header-portlet-javascript>/js/jquery.cycle.all.latest.js</header-portlet-javascript>        
+        <header-portlet-javascript>https://maps.google.com/maps/api/js?sensor=false</header-portlet-javascript>
+        <css-class-wrapper>wrf-portlet</css-class-wrapper>
+    </portlet>
+    <role-mapper>
+        <role-name>administrator</role-name>
+        <role-link>Administrator</role-link>
+    </role-mapper>
+    <role-mapper>
+        <role-name>guest</role-name>
+        <role-link>Guest</role-link>
+    </role-mapper>
+    <role-mapper>
+        <role-name>power-user</role-name>
+        <role-link>Power User</role-link>
+    </role-mapper>
+    <role-mapper>
+        <role-name>user</role-name>
+        <role-link>User</role-link>
+    </role-mapper>
+</liferay-portlet-app>
