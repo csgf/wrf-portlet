@@ -27,7 +27,7 @@ The poster presented at the EGU2014 Assembly can be inspected <a href="http://ei
  
 <h2>Sponsors</h2>
 <p align="justify">
-<a href="http://www.infn.it/"><img width="250" src="http://www.infn.it/logo/weblogo1.gif" border="0" title="The INFN Home Page"></a>
+<a href="http://www.infn.it/"><img width="200" src="http://www.infn.it/logo/weblogo1.gif" border="0" title="The INFN Home Page"></a>
 <a href="http://ei4africa.eu"><img width="250" src="http://ei4africa.eu/files/2013/04/eI4africa_logo.png" border="0" title="The ei4Africa Home Page"></a>
 </p>
 
