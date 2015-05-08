@@ -26,6 +26,6 @@ The poster presented at the EGU2014 Assembly can be inspected <a href="http://ei
 - Create an Issue with a link to your branch
  
 <h2>Sponsors</h2>
-<a href="http://ei4africa.eu"><img width="250" src="http://ei4africa.eu/files/2013/04/eI4africa_logo.png" border="0" title="The ei4Africa Home Page"></a>
+<a href="http://ei4africa.eu"><img width="350" src="http://ei4africa.eu/files/2013/04/eI4africa_logo.png" border="0" title="The ei4Africa Home Page"></a>
 
 
