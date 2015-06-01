@@ -100,20 +100,10 @@ Each simulation will produce:
 
 - *.tar.gz*: containing the results of the Monte Carlo simulation.
 
-A typical simulation produces, at the end, the following files:
+A typical simulation produces on HPC or cloud infrastructures the following results:
 
-.. code:: bash
-
-        ]$ tree SequenceAlignmentSimulationStarted_126163/
-        SequenceAlignmentSimulationStarted_126163/
-        ├── std.err
-        ├── std.out
-        ├── output.README
-        └── outputs.tar.gz
-
-        ]$ tar zxvf outputs.tar.gz 
-        20150601120928_larocca.aln
-        20150601120928_larocca.dnd
+.. image:: images/WRF_results.jpg
+      :align: center
 
 ============
 Support
