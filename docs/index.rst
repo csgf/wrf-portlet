@@ -92,15 +92,7 @@ To run the PoC the user has to click on the *third* accordion of the portlet and
 .. image:: images/WRF_inputs.jpg
       :align: center
 
-Each simulation will produce:
-
-- *std.out*: the standard output file;
-
-- *std.err*: the standard error file;
-
-- *.tar.gz*: containing the results of the Monte Carlo simulation.
-
-A typical simulation produces on HPC or cloud infrastructures the following results:
+The WRF simulation refers to a region in Africa and to a period of two days:
 
 .. image:: images/WRF_results.jpg
       :align: center
