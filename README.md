@@ -3,7 +3,7 @@
 <h2>Requirements</h2>
 - JDK 7+
 - JSAGA libs (v1.1.x)
-- jsaga-job-management (v1.5.96+)
+- jsaga-job-management (v1.5.9+)
 
 <h2>About the Weather Research and Forecasting (WRF) Model</h2>
 <p align="justify">
