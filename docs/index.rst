@@ -6,6 +6,12 @@ WRF v1.0.3 Docs
 About
 ============
 
+.. image:: images/WRF_logo.png
+   :width: 400px
+   :align: left
+   :target: http://www.wrf-model.org/
+-------------
+
 .. _1: http://www.wrf-model.org/
 .. _2: https://sgw.africa-grid.org/
 .. _3: http://www.eumedgrid.eu/
