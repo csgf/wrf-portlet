@@ -9,6 +9,8 @@ About
 .. _1: http://www.wrf-model.org/
 .. _2: https://sgw.africa-grid.org/
 .. _3: http://www.eumedgrid.eu/
+.. _4: http://www.dit.ac.tz/
+.. _5: https://www.chain-project.eu/
 
 The Weather Research and Forecasting (WRF) Model [1_] is a next-generation mesoscale numerical weather prediction system designed to serve both atmospheric research and operational forecasting needs.
 
@@ -43,9 +45,19 @@ As soon as the portlet has been successfully deployed on the Science Gateway the
 
 **Serial Number**: The MD5SUM of the robot certificate to be used for this e-Infrastructure;
 
+In the following figure is shown how the portlet has been configured to run simulation on the DIT e-Infrastructure [4_].
+
+.. image:: images/WRF_settings1.jpg
+      :align: center
+
+In the following figure is shown how the portlet has been configured to run simulation on the CHAIN-REDS Cloud Testbed [5_].
+
+.. image:: images/WRF_settings2.jpg
+      :align: center
+
 In the following figure is shown how the portlet has been configured to run simulation on the EUMEDGRIDSupport e-Infrastructure [3_].
 
-.. image:: images/WRF_settings.jpg
+.. image:: images/WRF_settings3.jpg
    :align: center
 
 2.) To configure the application, the following settings have to be provided:
@@ -60,7 +72,7 @@ In the following figure is shown how the portlet has been configured to run simu
 
 In the figure below is shown how the application settings have been configured to run on the Africa Grid Science Gateway [2_].
 
-.. image:: images/WRF_settings2.jpg
+.. image:: images/WRF_settings.jpg
    :align: center
 
 ============
