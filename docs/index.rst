@@ -12,7 +12,9 @@ About
 .. _4: http://www.dit.ac.tz/
 .. _5: https://www.chain-project.eu/
 
-The Weather Research and Forecasting (WRF) Model [1_] is a next-generation mesoscale numerical weather prediction system designed to serve both atmospheric research and operational forecasting needs.
+The Weather Research and Forecasting (WRF) modelling system [1_] is a widely used meso-scale numerical weather prediction system designed to serve both atmospheric research and operational forecasting needs.
+
+WRF has a large worldwide community counting more than 20,000 users in 130 countries and it has been specifically designed to be the state-of-the-art atmospheric simulation system being portable and running efficiently on available parallel computing platforms.
 
 ============
 Installation
