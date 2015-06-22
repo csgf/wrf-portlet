@@ -1,5 +1,5 @@
 *********************
-WRF Docs
+WRF 
 *********************
 
 ============
@@ -98,7 +98,7 @@ The WRF simulation refers to a region in Africa and to a period of two days:
       :align: center
 
 ============
-Support
+Contact
 ============
 Please feel free to contact us any time if you have any questions or comments.
 
@@ -118,6 +118,3 @@ Please feel free to contact us any time if you have any questions or comments.
  
  `Torleif MARKUSSEN LUNDE <mailto:torleif.lunde@cih.uib.no>`_ - University of Bergen (UoB_),
  
-:Version: v1.0.3, 2015
-
-:Date: June 1st, 2015 13:23
