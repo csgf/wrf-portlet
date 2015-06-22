@@ -98,7 +98,7 @@ The WRF simulation refers to a region in Africa and to a period of two days:
       :align: center
 
 ============
-Contact
+Contributor(s)
 ============
 Please feel free to contact us any time if you have any questions or comments.
 
@@ -108,13 +108,13 @@ Please feel free to contact us any time if you have any questions or comments.
 
 :Authors:
  
- `Roberto BARBERA <mailto:roberto.barbera@ct.infn.it>`_ - Italian National Institute of Nuclear Physics (INFN_),
+ Roberto BARBERA - Italian National Institute of Nuclear Physics (INFN_),
  
- `Riccardo BRUNO <mailto:riccardo.bruno@ct.infn.it>`_ - Italian National Institute of Nuclear Physics (INFN_),
+ Riccardo BRUNO - Italian National Institute of Nuclear Physics (INFN_),
 
- `Giuseppe LA ROCCA <mailto:giuseppe.larocca@ct.infn.it>`_ - Italian National Institute of Nuclear Physics (INFN_),
+ Giuseppe LA ROCCA - Italian National Institute of Nuclear Physics (INFN_),
  
- `Bjorn PEHRSON <mailto:bpehrson@kth.se>`_ - Royal Institute of Technology (KTH_),
+ Bjorn PEHRSON - Royal Institute of Technology (KTH_),
  
- `Torleif MARKUSSEN LUNDE <mailto:torleif.lunde@cih.uib.no>`_ - University of Bergen (UoB_),
+ Torleif MARKUSSEN LUNDE - University of Bergen (UoB_)
  
